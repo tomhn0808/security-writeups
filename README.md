@@ -12,4 +12,4 @@ The projects are:
 
 If you are interested in such projects or you want to mention an error in them, please feel free to email me or open a pull requests.
 
-
+All Python code provided here have been previously validated using pylint in Github Actions on a separate private repository.

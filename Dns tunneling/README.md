@@ -255,3 +255,5 @@ COMMIT;
 This documentation provides a baseline for understanding how DNS tunneling bypasses traditional firewall rules by encapsulating data within standard DNS queries. This experiment has been done only for educational purposes.
 
 You can find the network capture on the repository (```sample.pcapng```)
+
+All Python code provided here have been previously validated using pylint in Github Actions on a separate private repository.
