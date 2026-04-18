@@ -10,6 +10,6 @@ The projects are:
 - PAM (Pluggable Authentication Modules for Linux )
 
 
-If you are interested in such projects or you want to mention an error in them, please feel free to email me 
+If you are interested in such projects or you want to mention an error in them, please feel free to email me or open a pull requests.
 
 
